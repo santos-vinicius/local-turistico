@@ -2,7 +2,7 @@
 
 # Desafio prático - Local Turístico
 
-Este projeto é uma Página web desktop com informações sobre um local turístico. Esse é um dos desafios práticos da formação Fullstack da @Rocketseat.
+Este projeto é uma página web desktop com informações sobre um local turístico. Esse é um dos desafios práticos da formação Fullstack da @Rocketseat.
 
 ## Conceitos aprimorados
 
