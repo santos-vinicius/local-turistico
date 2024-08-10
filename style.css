@@ -152,3 +152,20 @@ footer i  {
   vertical-align: middle;
   color: var(--text-headline);
 }
+
+
+/* Breakpoints */
+
+/* Small devices */
+@media only screen and (max-width: 640px) {
+  #page {
+    max-width: 70%;
+  }
+}
+
+/* Medium devices */
+@media only screen and (min-width: 768px) and(max-width: 1000px) {
+  #page {
+    max-width: 80%;
+  }
+}
